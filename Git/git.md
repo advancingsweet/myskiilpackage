@@ -4,19 +4,19 @@
 
 
 
-## Git常用指令
+## 1.Git常用指令
 
 ![img](https://img-blog.csdnimg.cn/direct/fe1269fd0e6149a0adfabf784050b0f6.png)
 
 
 
-## Git安装、Git与Github绑定
+## 2.Git安装、Git与Github绑定
 
 1. [Git注册、登录和使用方法_git登录](https://blog.csdn.net/2401_87288638/article/details/142436425?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~YuanLiJiHua~Position-3-142436425-blog-90055273.235^v43^control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~YuanLiJiHua~Position-3-142436425-blog-90055273.235^v43^control&utm_relevant_index=6)
 
 
 
-## 本地文档上传
+## 3.本地文档上传
 
 1. [用git上传项目到GitHub](https://zhuanlan.zhihu.com/p/193140870)
 
@@ -41,7 +41,7 @@ git remote add origin git@github.com:wangjiax9/practice.git //关联远程仓库
 
 
 
-## 官方文档
+## 4.官方文档
 
 ![QQ_1732115379285](C:/Users/HONGWE~1/AppData/Local/Temp/QQ_1732115379285.png)
 
